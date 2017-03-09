@@ -1,0 +1,82 @@
+User 'walkingDead' has been created
+User 'olympics' has been created
+User 'culture_art' has been created
+User 'traveler' has been created
+User 'desktop' has been created
+User 'ig_canonturk' has been created
+walkingDead followed olympics
+walkingDead followed desktop
+olympics followed traveler
+olympics followed walkingDead
+olympics followed ig_canonturk
+traveler followed ig_canonturk
+traveler followed walkingDead
+desktop followed culture_art
+ig_canonturk followed desktop
+culture_art followed culture_art
+culture_art followed ig_canonturk
+desktop followed olympics
+ig_canonturk followed traveler
+ig_canonturk followed olympics
+Err: desktop has already followed olympics
+culture_art followed desktop
+traveler followed olympics
+culture_art has liked traveler's post
+ig_canonturk has liked olympics's post
+walkingDead has liked desktop's post
+olympics has liked traveler's post
+desktop has liked traveler's post
+culture_art has liked ig_canonturk's post
+ig_canonturk has liked olympics’s post
+olympics has liked traveler's post
+traveler has liked desktop's post
+Err: desktop has already followed olympics
+------------------------------------------------
+traveler following [3] - blocked [0] users - [4] posts.
+We_are_traveling_to..
+---------------------Tweets---------------------
+'Pegasus_airlines_raised_the_flight_prices' - Likes: 2
+'This_week_we_are_exploring_the_Grand_Canyon!' - Likes: 1
+'Travel_with_a_rucksack_or_a_car?' - TotalSize: [125000 pixels] - Likes: 0
+'The_new_Bianchi_mountain_bikes_are_awesome' - Likes: 1
+------------------------------------------------
+olympics has blocked traveler
+------------------------------------------------
+traveler following [3] - blocked [0] users - [4] posts.
+We_are_traveling_to..
+---------------------Tweets---------------------
+'Pegasus_airlines_raised_the_flight_prices' - Likes: 1
+'This_week_we_are_exploring_the_Grand_Canyon!' - Likes: 1
+'Travel_with_a_rucksack_or_a_car?' - TotalSize: [125000 pixels] - Likes: 0
+'The_new_Bianchi_mountain_bikes_are_awesome' - Likes: 0
+------------------------------------------------
+------------------------------------------------
+desktop following [2] - blocked [0] users - [3] posts.
+Home_is_where_hard_drive_is
+---------------------Tweets---------------------
+'Intel_launches_the_new_9nm_chips' - Likes: 1
+'New_GeForceFX_graphics_processor' - TotalSize: [120000 pixels] - Likes: 0
+'The_upcoming_Windows:_Windows_10' - Likes: 1
+6------------------------------------------------
+desktop has reposted culture_art's post
+------------------------------------------------
+desktop following [2] - blocked [0] users - [4] posts.
+Home_is_where_hard_drive_is
+---------------------Tweets---------------------
+'Intel_launches_the_new_9nm_chips' - Likes: 1
+'New_GeForceFX_graphics_processor' - TotalSize: [120000 pixels] - Likes: 0
+'Art_night_at_NYC:_tonight' - Likes: 0
+'The_upcoming_Windows:_Windows_10' - Likes: 1
+------------------------------------------------
+desktop has blocked culture_art
+------------------------------------------------
+desktop following [2] - blocked [1] users - [4] posts.
+Home_is_where_hard_drive_is
+---------------------Tweets---------------------
+'Intel_launches_the_new_9nm_chips' - Likes: 1
+'New_GeForceFX_graphics_processor' - TotalSize: [120000 pixels] - Likes: 0
+'Art_night_at_NYC:_tonight' - Likes: 0
+'The_upcoming_Windows:_Windows_10' - Likes: 1
+------------------------------------------------
+olympics has been unfollowed by ig_canonturk
+Err: olympics has already been unfollowed by you! You cannot unfollow again.
